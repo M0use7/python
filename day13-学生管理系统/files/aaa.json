@@ -1,0 +1,17 @@
+{
+    "all_students": [
+        {
+            "name": "thj",
+            "age": "21",
+            "tel": "123456",
+            "id": "python001"
+        },
+        {
+            "name": "zhangsan",
+            "age": "22",
+            "tel": "110",
+            "id": "python002"
+        }
+    ],
+    "number": 3
+}
